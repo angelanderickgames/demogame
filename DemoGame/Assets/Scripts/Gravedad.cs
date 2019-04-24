@@ -8,7 +8,7 @@ public class Gravedad : MonoBehaviour
     void Start()
     {
         Planeta.planeta.objetos.Add(GetComponent<Rigidbody>());
-
+		// pene
     }
 
     // Update is called once per frame
